@@ -12,7 +12,7 @@ Programming under processing  please wite .....
       
       '''
       )
-
+# this code about how you orgnazer your folder 
 # current_dir=os.path.dirname(os.path.realpath(__file__))
 
 # for filename in os.listdir(current_dir):
