@@ -17,3 +17,4 @@ def send_email(message):
             print("could not login or send the mail.")
             
 # send_email("hello this come from obeid 202")
+# this file  for  how you can setting Timer to working every i minuit's 
